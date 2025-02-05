@@ -11,7 +11,7 @@ Olá, amigos(as). Me chamo Brenno Henrique, eu tenho 20 anos e sou natural de Pe
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brennohdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-### ♦ Linguagens e Tecnologias
+### ♦ Linguagens e Tecnologias de interesse
 
 <img 
 align="left" 
