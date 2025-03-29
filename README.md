@@ -2,7 +2,26 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, amigos(as). Me chamo Brenno Henrique, eu tenho 20 anos e sou natural de Pernambuco. Concluí ensino médio com técnico em logística, mas minha paixão sempre foi programação. Atualmente, estou cursando Ciência de dados na UFPB. Sou apaixonado por tecnologia e programação desde a infância, e estou sempre disposto a aprender. Afinal, ninguém sabe tanto ao ponto de não ter mais o que aprender. 💻
+# Hello, world! 👋
+
+## About Me
+
+My name is **Brenno Henrique**, I am **20 years old** and I am from **Pernambuco, Brazil**.
+
+### Education
+
+- **High School**: Completed with a focus on **Logistics Technician**.
+- **Undergraduate**: Currently pursuing a degree in **Data Science** at the **Federal University of Paraíba (UFPB)**.
+
+### Interests
+
+Since childhood, I have been passionate about **technology** and **programming**. I am always eager to learn new skills and knowledge, as I believe that learning is a continuous process.
+
+> "No one knows so much that there is nothing left to learn."
+
+### Contact
+
+Feel free to connect with me! I am open to collaborations and new opportunities. 💻
 
  <p align="left"> 
       <a href="https://github.com/brennohdev?tab=followers">
