@@ -30,7 +30,7 @@ Feel free to connect with me! I am open to collaborations and new opportunities.
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brennohdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-### ♦ Linguagens e Tecnologias de interesse
+### ♦ Languages and Technologies of Interest
 
 <img 
 align="left" 
@@ -98,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br />
 <br />
 
-### Estatísticas 🎲
+### Statistics 🎲
 
 <p>
   <img 
