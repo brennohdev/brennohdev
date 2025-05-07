@@ -82,6 +82,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 
 <img 
 align="left" 
+alt="Reactjs"
+title = "Reactjs"
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+
+<img 
+align="left" 
+alt="Reactjs"
+title = "Reactjs"
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+
+<img 
+align="left" 
 alt="Python"
 title = "Python"
 width="40px" 
