@@ -58,22 +58,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img 
 align="left" 
-alt="HTML5"
-title = "html5"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
-<img 
-align="left" 
-alt="css3"
-title = "css3"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<img 
-align="left" 
 alt="Reactjs"
 title = "Reactjs"
 width="40px" 
@@ -98,6 +82,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 <img 
 align="left" 
+alt="Springboot"
+title = "Springboot"
+width="40px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg"/>
+
+<img 
+align="left" 
 alt="Typescript"
 title = "Typescript"
 width="40px" 
@@ -119,6 +111,7 @@ title = "Python"
 width="40px" 
 style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
 <img 
 align="left" 
 alt="Git"
