@@ -1,126 +1,55 @@
-# 👨‍💻 Brenno Henrique 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi!%20I'm%20Brenno%20Henrique&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+</div>
 
-**`Desenvolvedor FullStack`**
+<div align="center">
+  <h3><i>"No one knows so much that there is nothing left to learn."</i></h3>
+</div>
 
-# Hello, world! 👋
+---
 
-## About Me
+### 👨‍💻 About Me
 
-My name is **Brenno Henrique**, I am **20 years old** and I am from **Pernambuco, Brazil**.
+I'm Brenno Henrique, a **Software Engineer** currently specializing in Machine Learning. I am passionate about technology, continuous learning, and building innovative solutions.
 
-### Education
+---
 
-- **High School**: Completed with a focus on **Logistics Technician**.
-- **Undergraduate**: Currently pursuing a degree in **Data Science** at the **Federal University of Paraíba (UFPB)**.
+### 🛠️ My Tech Stack
 
-### Interests
-
-Since childhood, I have been passionate about **technology** and **programming**. I am always eager to learn new skills and knowledge, as I believe that learning is a continuous process.
-
-> "No one knows so much that there is nothing left to learn."
-
-### Contact
-
-Feel free to connect with me! I am open to collaborations and new opportunities. 💻
-
- <p align="left"> 
-      <a href="https://github.com/brennohdev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brennohdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/brennohdev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brennohdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
-### ♦ Languages and Technologies of Interest
-
-<img 
-align="left" 
-alt="Dart"
-title = "Dart"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-          
-<img 
-align="left" 
-alt="JavaScript"
-title = "JavaScript"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-<img 
-align="left" 
-alt="Nodejs"
-title = "Nodejs"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-
-<img 
-align="left" 
-alt="Reactjs"
-title = "Reactjs"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-
-<img 
-align="left" 
-alt="Nextjs"
-title = "Nextjs"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-
-<img 
-align="left" 
-alt="Java"
-title = "Java"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-<img 
-align="left" 
-alt="Typescript"
-title = "Typescript"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-
-<img 
-align="left" 
-alt="TailwindCss"
-title = "TailwindCss"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-
-<img 
-align="left" 
-alt="Python"
-title = "Python"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img 
-align="left" 
-alt="Git"
-title = "Git"
-width="40px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br />
-<br />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennohdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+
+### 🌱 Currently Learning
+
+-   **Machine Learning:** Diving deep into algorithms, models, and data processing.
+-   **CI/CD:** Improving and automating development pipelines.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennohdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennohdev&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:brennohdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brennoas-costa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
